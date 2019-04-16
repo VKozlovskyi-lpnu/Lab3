@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mob_Lab3</string>
+    <string name="item">ItemString</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="button_save">NEW</string>
+    <string name="button_delete">DELETE</string>
+    <string name="moreinfoheader">HEADLINE</string>
+    <string name="moreinfo">There can be your note</string>
+    <string name="input_hint">Type something</string>
+</resources>
